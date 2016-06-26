@@ -1,0 +1,11 @@
+{
+  "name": "node_web3",
+  "version": "1.0.0",
+  "description": "linking to geth node over http",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Pollock",
+  "license": "ISC"
+}
